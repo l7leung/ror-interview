@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Blue Toy Car
+  price: 9.99
+  quantity: 30.00
+
+two:
+  name: Red Toy Car
+  price: 9.99
+  quantity: 26.00
+
+three:
+  name: Toy Truck
+  price: 14.99
+  quantity: 20.00
